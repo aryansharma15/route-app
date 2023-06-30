@@ -27,6 +27,8 @@ function App() {
 					<Route path="/" element={<Landing />} />
 					<Route path="/blog" element={<Blog />} />
 				</Routes>
+
+				<footer></footer>
 			</main>
 		</BrowserRouter>
 	);
