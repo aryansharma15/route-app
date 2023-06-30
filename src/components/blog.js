@@ -12,7 +12,7 @@ function Blog() {
 						<h5 class="card-title">Card title</h5>
 						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 						<a href="#" class="btn btn-primary">
-							Go somewhere
+							Button S
 						</a>
 					</div>
 				</div>
@@ -23,7 +23,7 @@ function Blog() {
 						<h5 class="card-title">Card title</h5>
 						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 						<a href="#" class="btn btn-primary">
-							Go somewhere
+							Button A
 						</a>
 					</div>
 				</div>
@@ -34,7 +34,7 @@ function Blog() {
 						<h5 class="card-title">Card title</h5>
 						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 						<a href="#" class="btn btn-primary">
-							Go somewhere
+							Button B
 						</a>
 					</div>
 				</div>
@@ -45,7 +45,7 @@ function Blog() {
 						<h5 class="card-title">Card title</h5>
 						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 						<a href="#" class="btn btn-primary">
-							Go somewhere
+							Button C
 						</a>
 					</div>
 				</div>

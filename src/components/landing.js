@@ -108,6 +108,8 @@ function Landing() {
 					rem doloremque quas blanditiis aut enim. Fugit mollitia perspiciatis harum ducimus incidunt nobis sunt!
 				</p>
 			</div>
+
+			<footer></footer>
 		</div>
 	);
 }
