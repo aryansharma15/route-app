@@ -13,13 +13,6 @@ function Landing() {
           alt="landscape"
         /> */}
 
-			<div className="auther">
-				<h2>New Here?</h2>
-				<h2>Sign-up</h2>
-
-				<h2>Login</h2>
-			</div>
-
 			<div className="content">
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa delectus odio et repellendus in a voluptatibus, aliquam hic eum
