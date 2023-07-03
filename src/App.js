@@ -24,7 +24,6 @@ function App() {
 					</div>
 				</nav>
 			</header>
-
 			<main>
 				<Routes>
 					<Route path="/" element={<Landing />} />
